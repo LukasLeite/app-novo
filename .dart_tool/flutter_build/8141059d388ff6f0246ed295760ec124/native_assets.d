@@ -1,0 +1,1 @@
+ G:\\Flutter+\\DBS\\CRUD_BOTAO\\app_final\\.dart_tool\\flutter_build\\8141059d388ff6f0246ed295760ec124\\native_assets.yaml: 

@@ -1,0 +1,43 @@
+com.mycompany.crmapp-fragment-1.6.2-0 C:\Users\Lucas Leite\.gradle\caches\transforms-3\0040ef0994ea8db1f64784346c06018f\transformed\fragment-1.6.2\res
+com.mycompany.crmapp-jetified-profileinstaller-1.3.0-1 C:\Users\Lucas Leite\.gradle\caches\transforms-3\02dca9228b6cfc2d193c4f4819d0a11f\transformed\jetified-profileinstaller-1.3.0\res
+com.mycompany.crmapp-jetified-core-ktx-1.10.1-2 C:\Users\Lucas Leite\.gradle\caches\transforms-3\10321b963fd86a2541ee691886abf080\transformed\jetified-core-ktx-1.10.1\res
+com.mycompany.crmapp-jetified-window-1.0.0-beta04-3 C:\Users\Lucas Leite\.gradle\caches\transforms-3\18e8bba8959ee3aa6822c740ed47be10\transformed\jetified-window-1.0.0-beta04\res
+com.mycompany.crmapp-jetified-firebase-common-20.4.3-4 C:\Users\Lucas Leite\.gradle\caches\transforms-3\2ba782b31587d68a681838187682b213\transformed\jetified-firebase-common-20.4.3\res
+com.mycompany.crmapp-lifecycle-livedata-2.6.1-5 C:\Users\Lucas Leite\.gradle\caches\transforms-3\2c065545d37cd7e366a21acfd0668355\transformed\lifecycle-livedata-2.6.1\res
+com.mycompany.crmapp-jetified-play-services-basement-18.3.0-6 C:\Users\Lucas Leite\.gradle\caches\transforms-3\2da65ccb27efe7f6f0331f9ee7ced51d\transformed\jetified-play-services-basement-18.3.0\res
+com.mycompany.crmapp-biometric-1.1.0-7 C:\Users\Lucas Leite\.gradle\caches\transforms-3\48df04904584283875cefab91f281329\transformed\biometric-1.1.0\res
+com.mycompany.crmapp-jetified-lifecycle-viewmodel-savedstate-2.6.1-8 C:\Users\Lucas Leite\.gradle\caches\transforms-3\74853ad1a4fb017452f8bc609e123294\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.mycompany.crmapp-jetified-savedstate-1.2.1-9 C:\Users\Lucas Leite\.gradle\caches\transforms-3\768491c157474130f653612a9ddee1dc\transformed\jetified-savedstate-1.2.1\res
+com.mycompany.crmapp-jetified-startup-runtime-1.1.1-10 C:\Users\Lucas Leite\.gradle\caches\transforms-3\78045bc66efb9db20cf76146bb82d4ba\transformed\jetified-startup-runtime-1.1.1\res
+com.mycompany.crmapp-jetified-play-services-auth-20.7.0-11 C:\Users\Lucas Leite\.gradle\caches\transforms-3\857063c7237af35142be74d489c036ff\transformed\jetified-play-services-auth-20.7.0\res
+com.mycompany.crmapp-browser-1.5.0-12 C:\Users\Lucas Leite\.gradle\caches\transforms-3\9555a66033865a1161763fdab728b441\transformed\browser-1.5.0\res
+com.mycompany.crmapp-jetified-play-services-base-18.0.1-13 C:\Users\Lucas Leite\.gradle\caches\transforms-3\a093ac9e07cd1d73cc543195090095ba\transformed\jetified-play-services-base-18.0.1\res
+com.mycompany.crmapp-jetified-window-java-1.0.0-beta04-14 C:\Users\Lucas Leite\.gradle\caches\transforms-3\a770543ed88559166d0288a211e8016c\transformed\jetified-window-java-1.0.0-beta04\res
+com.mycompany.crmapp-lifecycle-runtime-2.6.1-15 C:\Users\Lucas Leite\.gradle\caches\transforms-3\a89eab433bc8e969fb04037ee8df07ca\transformed\lifecycle-runtime-2.6.1\res
+com.mycompany.crmapp-jetified-appcompat-resources-1.2.0-16 C:\Users\Lucas Leite\.gradle\caches\transforms-3\b3bc2c1545ceaebed223421f4a7b403e\transformed\jetified-appcompat-resources-1.2.0\res
+com.mycompany.crmapp-jetified-annotation-experimental-1.3.0-17 C:\Users\Lucas Leite\.gradle\caches\transforms-3\c24a19b1dd9d08d717446ac260c89747\transformed\jetified-annotation-experimental-1.3.0\res
+com.mycompany.crmapp-jetified-activity-1.7.2-18 C:\Users\Lucas Leite\.gradle\caches\transforms-3\db9984a6c49c85ec0cb5d29267f066ca\transformed\jetified-activity-1.7.2\res
+com.mycompany.crmapp-lifecycle-livedata-core-2.6.1-19 C:\Users\Lucas Leite\.gradle\caches\transforms-3\de7ef1c896be58bb6771a00dddfd7d29\transformed\lifecycle-livedata-core-2.6.1\res
+com.mycompany.crmapp-appcompat-1.2.0-20 C:\Users\Lucas Leite\.gradle\caches\transforms-3\efc0b32b487cb723dd6584ec10909fe6\transformed\appcompat-1.2.0\res
+com.mycompany.crmapp-lifecycle-viewmodel-2.6.1-21 C:\Users\Lucas Leite\.gradle\caches\transforms-3\f1a3cd87bba2003f499e614028d7f63f\transformed\lifecycle-viewmodel-2.6.1\res
+com.mycompany.crmapp-core-runtime-2.2.0-22 C:\Users\Lucas Leite\.gradle\caches\transforms-3\f5fc0b497152c965f1543dfff86f1103\transformed\core-runtime-2.2.0\res
+com.mycompany.crmapp-core-1.10.1-23 C:\Users\Lucas Leite\.gradle\caches\transforms-3\f913c1187fe6a334cbb16b92ca817339\transformed\core-1.10.1\res
+com.mycompany.crmapp-debug-24 C:\appfinal\app_final\android\app\src\debug\res
+com.mycompany.crmapp-main-25 C:\appfinal\app_final\android\app\src\main\res
+com.mycompany.crmapp-google-services-26 C:\appfinal\app_final\build\app\generated\res\google-services\debug
+com.mycompany.crmapp-pngs-27 C:\appfinal\app_final\build\app\generated\res\pngs\debug
+com.mycompany.crmapp-resValues-28 C:\appfinal\app_final\build\app\generated\res\resValues\debug
+com.mycompany.crmapp-rs-29 C:\appfinal\app_final\build\app\generated\res\rs\debug
+com.mycompany.crmapp-mergeDebugResources-30 C:\appfinal\app_final\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.mycompany.crmapp-mergeDebugResources-31 C:\appfinal\app_final\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.mycompany.crmapp-merged_res-32 C:\appfinal\app_final\build\app\intermediates\merged_res\debug
+com.mycompany.crmapp-packaged_res-33 C:\appfinal\app_final\build\firebase_auth\intermediates\packaged_res\debug
+com.mycompany.crmapp-packaged_res-34 C:\appfinal\app_final\build\firebase_core\intermediates\packaged_res\debug
+com.mycompany.crmapp-packaged_res-35 C:\appfinal\app_final\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.mycompany.crmapp-packaged_res-36 C:\appfinal\app_final\build\google_sign_in_android\intermediates\packaged_res\debug
+com.mycompany.crmapp-packaged_res-37 C:\appfinal\app_final\build\local_auth_android\intermediates\packaged_res\debug
+com.mycompany.crmapp-packaged_res-38 C:\appfinal\app_final\build\path_provider_android\intermediates\packaged_res\debug
+com.mycompany.crmapp-packaged_res-39 C:\appfinal\app_final\build\shared_preferences_android\intermediates\packaged_res\debug
+com.mycompany.crmapp-packaged_res-40 C:\appfinal\app_final\build\sign_in_with_apple\intermediates\packaged_res\debug
+com.mycompany.crmapp-packaged_res-41 C:\appfinal\app_final\build\sqflite\intermediates\packaged_res\debug
+com.mycompany.crmapp-packaged_res-42 C:\appfinal\app_final\build\url_launcher_android\intermediates\packaged_res\debug

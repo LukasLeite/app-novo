@@ -1,0 +1,109 @@
+// Export pages
+export '/app_d_bsn_o_op/p2login/p2login_widget.dart' show P2loginWidget;
+export '/app_d_bsn_o_op/p4recsenha/p4recsenha_widget.dart'
+    show P4recsenhaWidget;
+export '/app_d_bsn_o_op/p6menucolaboradores/p6menucolaboradores_widget.dart'
+    show P6menucolaboradoresWidget;
+export '/app_d_bsn_o_op/p8editarperfilcolaborador/p8editarperfilcolaborador_widget.dart'
+    show P8editarperfilcolaboradorWidget;
+export '/testeslucas/project_details_health_ai/project_details_health_ai_widget.dart'
+    show ProjectDetailsHealthAiWidget;
+export '/app_d_bsn_o_op/p8cadastrarfuncionario/p8cadastrarfuncionario_widget.dart'
+    show P8cadastrarfuncionarioWidget;
+export '/app_d_bsn_o_op/p8cadastrodeclientes/p8cadastrodeclientes_widget.dart'
+    show P8cadastrodeclientesWidget;
+export '/app_d_bsn_o_op/p8criarcargos/p8criarcargos_widget.dart'
+    show P8criarcargosWidget;
+export '/app_d_bsn_o_op/p8excluircargos/p8excluircargos_widget.dart'
+    show P8excluircargosWidget;
+export '/gesto_ponto/gesto_ponto_widget.dart' show GestoPontoWidget;
+export '/teste/teste_widget.dart' show TesteWidget;
+export '/app_d_bsn_o_op/p3criarconta/p3criarconta_widget.dart'
+    show P3criarcontaWidget;
+export '/app_d_bsn_o_op/pontoeletronico/pontoeletronico_widget.dart'
+    show PontoeletronicoWidget;
+export '/app_d_bsn_o_op/p8centraldejornadas/p8centraldejornadas_widget.dart'
+    show P8centraldejornadasWidget;
+export '/app_d_bsn_o_op/p8criarplantao/p8criarplantao_widget.dart'
+    show P8criarplantaoWidget;
+export '/app_d_bsn_o_op/p8criarresponsabilidade/p8criarresponsabilidade_widget.dart'
+    show P8criarresponsabilidadeWidget;
+export '/app_d_bsn_o_op/p8criarprojeto/p8criarprojeto_widget.dart'
+    show P8criarprojetoWidget;
+export '/app_d_bsn_o_op/p8registrarausencia/p8registrarausencia_widget.dart'
+    show P8registrarausenciaWidget;
+export '/app_d_bsn_o_op/p8criarausencia/p8criarausencia_widget.dart'
+    show P8criarausenciaWidget;
+export '/app_d_bsn_o_op/p8excluirclientes/p8excluirclientes_widget.dart'
+    show P8excluirclientesWidget;
+export '/app_d_bsn_o_op/p8editarclientes/p8editarclientes_widget.dart'
+    show P8editarclientesWidget;
+export '/app_d_bsn_o_op/p8criarjornadas/p8criarjornadas_widget.dart'
+    show P8criarjornadasWidget;
+export '/app_d_bsn_o_op/p1capa/p1capa_widget.dart' show P1capaWidget;
+export '/app_d_bsn_o_op/p8visualplantoes/p8visualplantoes_widget.dart'
+    show P8visualplantoesWidget;
+export '/app_d_bsn_o_op/p8visualjornadas/p8visualjornadas_widget.dart'
+    show P8visualjornadasWidget;
+export '/app_d_bsn_o_op/p8comprovantedeponto/p8comprovantedeponto_widget.dart'
+    show P8comprovantedepontoWidget;
+export '/app_d_bsn_o_op/p8centraldecargos/p8centraldecargos_widget.dart'
+    show P8centraldecargosWidget;
+export '/app_d_bsn_o_op/p8centraldeausencias/p8centraldeausencias_widget.dart'
+    show P8centraldeausenciasWidget;
+export '/app_d_bsn_o_op/p8centraldeprojetos/p8centraldeprojetos_widget.dart'
+    show P8centraldeprojetosWidget;
+export '/app_d_bsn_o_op/p8_overviewprojetos/p8_overviewprojetos_widget.dart'
+    show P8OverviewprojetosWidget;
+export '/app_d_bsn_o_op/p8_overviewclientes/p8_overviewclientes_widget.dart'
+    show P8OverviewclientesWidget;
+export '/app_d_bsn_o_op/p8clientesinfo/p8clientesinfo_widget.dart'
+    show P8clientesinfoWidget;
+export '/app_d_bsn_o_op/p8colaboradorinfo/p8colaboradorinfo_widget.dart'
+    show P8colaboradorinfoWidget;
+export '/app_d_bsn_o_op/p8_oveviercolaboradores/p8_oveviercolaboradores_widget.dart'
+    show P8OveviercolaboradoresWidget;
+export '/app_d_bsn_o_op/p8centraldecolaboradores/p8centraldecolaboradores_widget.dart'
+    show P8centraldecolaboradoresWidget;
+export '/app_d_bsn_o_op/p8centraldeclientes/p8centraldeclientes_widget.dart'
+    show P8centraldeclientesWidget;
+export '/app_d_bsn_o_op/p5menugerencia/p5menugerencia_widget.dart'
+    show P5menugerenciaWidget;
+export '/app_d_bsn_o_op/timesheet/timesheet_widget.dart' show TimesheetWidget;
+export '/app_d_bsn_o_op/p8bancodehoras/p8bancodehoras_widget.dart'
+    show P8bancodehorasWidget;
+export '/app_d_bsn_o_op/p8_saldocolaboradores/p8_saldocolaboradores_widget.dart'
+    show P8SaldocolaboradoresWidget;
+export '/menu_principal/menu_principal_widget.dart' show MenuPrincipalWidget;
+export '/app_d_bsn_o_op/menu_principall/menu_principall_widget.dart'
+    show MenuPrincipallWidget;
+export '/app_d_bsn_o_op/p8centraldesolicitacoes/p8centraldesolicitacoes_widget.dart'
+    show P8centraldesolicitacoesWidget;
+export '/app_d_bsn_o_op/p8_centraldecriacoes/p8_centraldecriacoes_widget.dart'
+    show P8CentraldecriacoesWidget;
+export '/app_d_bsn_o_op/p8centralplantoes/p8centralplantoes_widget.dart'
+    show P8centralplantoesWidget;
+export '/app_d_bsn_o_op/p8excluircolaboradores/p8excluircolaboradores_widget.dart'
+    show P8excluircolaboradoresWidget;
+export '/app_d_bsn_o_op/p8excluirprojeto/p8excluirprojeto_widget.dart'
+    show P8excluirprojetoWidget;
+export '/app_d_bsn_o_op/p8excluirplantao/p8excluirplantao_widget.dart'
+    show P8excluirplantaoWidget;
+export '/app_d_bsn_o_op/p8excluirjornada/p8excluirjornada_widget.dart'
+    show P8excluirjornadaWidget;
+export '/app_d_bsn_o_op/p8solicitarhoraextra/p8solicitarhoraextra_widget.dart'
+    show P8solicitarhoraextraWidget;
+export '/app_d_bsn_o_op/p8solicitardispensa/p8solicitardispensa_widget.dart'
+    show P8solicitardispensaWidget;
+export '/app_d_bsn_o_op/p8solicitarvenda/p8solicitarvenda_widget.dart'
+    show P8solicitarvendaWidget;
+export '/app_d_bsn_o_op/p8_relatorios/p8_relatorios_widget.dart'
+    show P8RelatoriosWidget;
+export '/app_d_bsn_o_op/p8centralresponsabilidades/p8centralresponsabilidades_widget.dart'
+    show P8centralresponsabilidadesWidget;
+export '/app_d_bsn_o_op/p8excluirresponsabilidade/p8excluirresponsabilidade_widget.dart'
+    show P8excluirresponsabilidadeWidget;
+export '/app_d_bsn_o_op/p8projetosinfo/p8projetosinfo_widget.dart'
+    show P8projetosinfoWidget;
+export '/app_d_bsn_o_op/p8visualrelatoriosponto/p8visualrelatoriosponto_widget.dart'
+    show P8visualrelatoriospontoWidget;
